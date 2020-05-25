@@ -1,0 +1,13 @@
+Package: com.instalight.testtweak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: InstaLight <patricksmith2022@lschs.org>
+Filename: /TestTweak.deb
+Size: 2730
+MD5sum: 587b56a0bec286dd22baf60e1e96f7f3
+SHA1: 	7f0dce3bccf0409f595abbd0920f06062f975287
+SHA256: abf8ef72128d352003c3704065a4a94141128d85f570ab1ac4f8e6e2e478f6f7
+Section: Tweaks
+Description: Test Tweak
+Author: InstaLight <patricksmith2022@lschs.org>
+Name: Test Tweak
